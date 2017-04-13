@@ -23,9 +23,6 @@ namespace MinaFaik2.Controllers
             //Test BOLA-------------------------------------------------Wego
             return View();
 
-
-            //Test one more time
-            //Wego is good
         }
 
          [HttpPost]
