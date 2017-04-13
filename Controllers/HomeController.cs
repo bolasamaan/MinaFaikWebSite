@@ -19,6 +19,7 @@ namespace MinaFaik2.Controllers
 
         public ActionResult HomePage()
         {
+            //wego_Test
             return View();
         }
 
