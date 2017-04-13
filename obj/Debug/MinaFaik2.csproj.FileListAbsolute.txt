@@ -96,6 +96,7 @@ F:\Mina Faik\Website\MinaFaikWebSite\obj\Debug\MinaFaik2.dll
 F:\Mina Faik\Website\MinaFaikWebSite\obj\Debug\MinaFaik2.pdb
 F:\Mina Faik\Website\MinaFaikWebSite\bin\MinaFaik2.dll
 F:\Mina Faik\Website\MinaFaikWebSite\bin\MinaFaik2.pdb
+F:\Mina Faik\Website\MinaFaikWebSite\bin\MinaFaik2.dll.config
 F:\Mina Faik\Website\MinaFaikWebSite\obj\Debug\MinaFaik2.csprojResolveAssemblyReference.cache
 C:\Users\WEG\Documents\MKBProjects\MinaFaikWebSite\bin\color\default.css
 C:\Users\WEG\Documents\MKBProjects\MinaFaikWebSite\bin\css\reset.css
