@@ -96,4 +96,4 @@ F:\Mina Faik\Website\MinaFaikWebSite\obj\Debug\MinaFaik2.dll
 F:\Mina Faik\Website\MinaFaikWebSite\obj\Debug\MinaFaik2.pdb
 F:\Mina Faik\Website\MinaFaikWebSite\bin\MinaFaik2.dll
 F:\Mina Faik\Website\MinaFaikWebSite\bin\MinaFaik2.pdb
-F:\Mina Faik\Website\MinaFaikWebSite\obj\Debug\MinaFaik2.csprojResolveAssemblyReference.cache
+F:\Mina Faik\Website\MinaFaikWebSite\bin\MinaFaik2.dll.config

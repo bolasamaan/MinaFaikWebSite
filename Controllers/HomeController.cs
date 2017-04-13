@@ -19,6 +19,7 @@ namespace MinaFaik2.Controllers
 
         public ActionResult HomePage()
         {
+            //Test BOLA-------------------------------------------------
             return View();
         }
 
